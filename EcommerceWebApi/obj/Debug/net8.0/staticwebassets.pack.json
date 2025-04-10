@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\2392836\\EcommDatabase-Main\\Ecomm-Database-Class\\EcommerceWebApi\\wwwroot\\Images\\4b4f6d1b-9217-43be-9bfd-86f169b1a187.png",
+      "PackagePath": "staticwebassets\\Images\\4b4f6d1b-9217-43be-9bfd-86f169b1a187.png"
+    },
+    {
+      "Id": "C:\\Users\\2392836\\EcommDatabase-Main\\Ecomm-Database-Class\\EcommerceWebApi\\wwwroot\\Images\\563af70b-0eec-4dd5-8817-d5080cec6195.png",
+      "PackagePath": "staticwebassets\\Images\\563af70b-0eec-4dd5-8817-d5080cec6195.png"
+    },
+    {
+      "Id": "C:\\Users\\2392836\\EcommDatabase-Main\\Ecomm-Database-Class\\EcommerceWebApi\\wwwroot\\Images\\image (1).png",
+      "PackagePath": "staticwebassets\\Images\\image (1).png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EcommerceWebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EcommerceWebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EcommerceWebApi.props",
+      "PackagePath": "build\\EcommerceWebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EcommerceWebApi.props",
+      "PackagePath": "buildMultiTargeting\\EcommerceWebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EcommerceWebApi.props",
+      "PackagePath": "buildTransitive\\EcommerceWebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

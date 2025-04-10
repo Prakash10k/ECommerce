@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "2mAp5ZbHWg/kjWr8lEbqtmk/Q1u8AIsRxRgFG2m9/DM=",
+  "Source": "EcommerceWebApi",
+  "BasePath": "_content/EcommerceWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EcommerceWebApi\\wwwroot",
+      "Source": "EcommerceWebApi",
+      "ContentRoot": "C:\\Users\\2392836\\EcommDatabase-Main\\Ecomm-Database-Class\\EcommerceWebApi\\wwwroot\\",
+      "BasePath": "_content/EcommerceWebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\2392836\\EcommDatabase-Main\\Ecomm-Database-Class\\EcommerceWebApi\\wwwroot\\Images\\4b4f6d1b-9217-43be-9bfd-86f169b1a187.png",
+      "SourceId": "EcommerceWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2392836\\EcommDatabase-Main\\Ecomm-Database-Class\\EcommerceWebApi\\wwwroot\\",
+      "BasePath": "_content/EcommerceWebApi",
+      "RelativePath": "Images/4b4f6d1b-9217-43be-9bfd-86f169b1a187#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ciozweaqo0",
+      "Integrity": "1J4jg78EHgQzY12/KP1B5Q5V5mQJDbKEkhPWAyxBLec=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\4b4f6d1b-9217-43be-9bfd-86f169b1a187.png"
+    },
+    {
+      "Identity": "C:\\Users\\2392836\\EcommDatabase-Main\\Ecomm-Database-Class\\EcommerceWebApi\\wwwroot\\Images\\563af70b-0eec-4dd5-8817-d5080cec6195.png",
+      "SourceId": "EcommerceWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2392836\\EcommDatabase-Main\\Ecomm-Database-Class\\EcommerceWebApi\\wwwroot\\",
+      "BasePath": "_content/EcommerceWebApi",
+      "RelativePath": "Images/563af70b-0eec-4dd5-8817-d5080cec6195#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ciozweaqo0",
+      "Integrity": "1J4jg78EHgQzY12/KP1B5Q5V5mQJDbKEkhPWAyxBLec=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\563af70b-0eec-4dd5-8817-d5080cec6195.png"
+    },
+    {
+      "Identity": "C:\\Users\\2392836\\EcommDatabase-Main\\Ecomm-Database-Class\\EcommerceWebApi\\wwwroot\\Images\\image (1).png",
+      "SourceId": "EcommerceWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2392836\\EcommDatabase-Main\\Ecomm-Database-Class\\EcommerceWebApi\\wwwroot\\",
+      "BasePath": "_content/EcommerceWebApi",
+      "RelativePath": "Images/image (1)#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ciozweaqo0",
+      "Integrity": "1J4jg78EHgQzY12/KP1B5Q5V5mQJDbKEkhPWAyxBLec=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\image (1).png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Images/4b4f6d1b-9217-43be-9bfd-86f169b1a187.ciozweaqo0.png",
+      "AssetFile": "C:\\Users\\2392836\\EcommDatabase-Main\\Ecomm-Database-Class\\EcommerceWebApi\\wwwroot\\Images\\4b4f6d1b-9217-43be-9bfd-86f169b1a187.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1J4jg78EHgQzY12/KP1B5Q5V5mQJDbKEkhPWAyxBLec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 07:16:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ciozweaqo0"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/4b4f6d1b-9217-43be-9bfd-86f169b1a187.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1J4jg78EHgQzY12/KP1B5Q5V5mQJDbKEkhPWAyxBLec="
+        }
+      ]
+    },
+    {
+      "Route": "Images/4b4f6d1b-9217-43be-9bfd-86f169b1a187.png",
+      "AssetFile": "C:\\Users\\2392836\\EcommDatabase-Main\\Ecomm-Database-Class\\EcommerceWebApi\\wwwroot\\Images\\4b4f6d1b-9217-43be-9bfd-86f169b1a187.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1J4jg78EHgQzY12/KP1B5Q5V5mQJDbKEkhPWAyxBLec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 07:16:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1J4jg78EHgQzY12/KP1B5Q5V5mQJDbKEkhPWAyxBLec="
+        }
+      ]
+    },
+    {
+      "Route": "Images/563af70b-0eec-4dd5-8817-d5080cec6195.ciozweaqo0.png",
+      "AssetFile": "C:\\Users\\2392836\\EcommDatabase-Main\\Ecomm-Database-Class\\EcommerceWebApi\\wwwroot\\Images\\563af70b-0eec-4dd5-8817-d5080cec6195.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1J4jg78EHgQzY12/KP1B5Q5V5mQJDbKEkhPWAyxBLec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 07:10:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ciozweaqo0"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/563af70b-0eec-4dd5-8817-d5080cec6195.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1J4jg78EHgQzY12/KP1B5Q5V5mQJDbKEkhPWAyxBLec="
+        }
+      ]
+    },
+    {
+      "Route": "Images/563af70b-0eec-4dd5-8817-d5080cec6195.png",
+      "AssetFile": "C:\\Users\\2392836\\EcommDatabase-Main\\Ecomm-Database-Class\\EcommerceWebApi\\wwwroot\\Images\\563af70b-0eec-4dd5-8817-d5080cec6195.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1J4jg78EHgQzY12/KP1B5Q5V5mQJDbKEkhPWAyxBLec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 07:10:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1J4jg78EHgQzY12/KP1B5Q5V5mQJDbKEkhPWAyxBLec="
+        }
+      ]
+    },
+    {
+      "Route": "Images/image (1).ciozweaqo0.png",
+      "AssetFile": "C:\\Users\\2392836\\EcommDatabase-Main\\Ecomm-Database-Class\\EcommerceWebApi\\wwwroot\\Images\\image (1).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1J4jg78EHgQzY12/KP1B5Q5V5mQJDbKEkhPWAyxBLec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 05:17:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ciozweaqo0"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/image (1).png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1J4jg78EHgQzY12/KP1B5Q5V5mQJDbKEkhPWAyxBLec="
+        }
+      ]
+    },
+    {
+      "Route": "Images/image (1).png",
+      "AssetFile": "C:\\Users\\2392836\\EcommDatabase-Main\\Ecomm-Database-Class\\EcommerceWebApi\\wwwroot\\Images\\image (1).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1J4jg78EHgQzY12/KP1B5Q5V5mQJDbKEkhPWAyxBLec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 05:17:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1J4jg78EHgQzY12/KP1B5Q5V5mQJDbKEkhPWAyxBLec="
+        }
+      ]
+    }
+  ]
+}

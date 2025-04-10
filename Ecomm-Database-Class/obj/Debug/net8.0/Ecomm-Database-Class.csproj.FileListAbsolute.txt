@@ -1,0 +1,30 @@
+C:\Users\2392836\OneDrive - Cognizant\Desktop\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\obj\Debug\net8.0\Ecomm-Database-Class.csproj.AssemblyReference.cache
+C:\Users\2392836\OneDrive - Cognizant\Desktop\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\obj\Debug\net8.0\Ecomm-Database-Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2392836\OneDrive - Cognizant\Desktop\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\obj\Debug\net8.0\Ecomm-Database-Class.AssemblyInfoInputs.cache
+C:\Users\2392836\OneDrive - Cognizant\Desktop\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\obj\Debug\net8.0\Ecomm-Database-Class.AssemblyInfo.cs
+C:\Users\2392836\OneDrive - Cognizant\Desktop\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\obj\Debug\net8.0\Ecomm-Database-Class.csproj.CoreCompileInputs.cache
+C:\Users\2392836\OneDrive - Cognizant\Desktop\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\obj\Debug\net8.0\Ecomm-Database-Class.sourcelink.json
+C:\Users\2392836\OneDrive - Cognizant\Desktop\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\bin\Debug\net8.0\Ecomm-Database-Class.deps.json
+C:\Users\2392836\OneDrive - Cognizant\Desktop\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\bin\Debug\net8.0\Ecomm-Database-Class.runtimeconfig.json
+C:\Users\2392836\OneDrive - Cognizant\Desktop\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\bin\Debug\net8.0\Ecomm-Database-Class.dll
+C:\Users\2392836\OneDrive - Cognizant\Desktop\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\bin\Debug\net8.0\Ecomm-Database-Class.pdb
+C:\Users\2392836\OneDrive - Cognizant\Desktop\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\obj\Debug\net8.0\Ecomm-Database-Class.dll
+C:\Users\2392836\OneDrive - Cognizant\Desktop\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\obj\Debug\net8.0\refint\Ecomm-Database-Class.dll
+C:\Users\2392836\OneDrive - Cognizant\Desktop\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\obj\Debug\net8.0\Ecomm-Database-Class.pdb
+C:\Users\2392836\OneDrive - Cognizant\Desktop\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\obj\Debug\net8.0\Ecomm-Database-Class.genruntimeconfig.cache
+C:\Users\2392836\OneDrive - Cognizant\Desktop\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\obj\Debug\net8.0\ref\Ecomm-Database-Class.dll
+C:\Users\2392836\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\bin\Debug\net8.0\Ecomm-Database-Class.deps.json
+C:\Users\2392836\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\bin\Debug\net8.0\Ecomm-Database-Class.runtimeconfig.json
+C:\Users\2392836\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\bin\Debug\net8.0\Ecomm-Database-Class.dll
+C:\Users\2392836\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\bin\Debug\net8.0\Ecomm-Database-Class.pdb
+C:\Users\2392836\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\obj\Debug\net8.0\Ecomm-Database-Class.csproj.AssemblyReference.cache
+C:\Users\2392836\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\obj\Debug\net8.0\Ecomm-Database-Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2392836\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\obj\Debug\net8.0\Ecomm-Database-Class.AssemblyInfoInputs.cache
+C:\Users\2392836\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\obj\Debug\net8.0\Ecomm-Database-Class.AssemblyInfo.cs
+C:\Users\2392836\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\obj\Debug\net8.0\Ecomm-Database-Class.csproj.CoreCompileInputs.cache
+C:\Users\2392836\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\obj\Debug\net8.0\Ecomm-Database-Class.sourcelink.json
+C:\Users\2392836\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\obj\Debug\net8.0\Ecomm-Database-Class.dll
+C:\Users\2392836\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\obj\Debug\net8.0\refint\Ecomm-Database-Class.dll
+C:\Users\2392836\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\obj\Debug\net8.0\Ecomm-Database-Class.pdb
+C:\Users\2392836\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\obj\Debug\net8.0\Ecomm-Database-Class.genruntimeconfig.cache
+C:\Users\2392836\EcommDatabase-Main\Ecomm-Database-Class\Ecomm-Database-Class\obj\Debug\net8.0\ref\Ecomm-Database-Class.dll
